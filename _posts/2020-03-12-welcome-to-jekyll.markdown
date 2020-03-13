@@ -3,6 +3,7 @@ layout: post
 title:  "++++++Welcome to Jekyll!+++++"
 date:   2020-03-12 22:07:05 +0100
 categories: jekyll update
+permalink: /:categories/:title
 ---
 
 ![My image Name](/images/dhd.PNG)

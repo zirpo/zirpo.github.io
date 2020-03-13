@@ -1,5 +1,9 @@
 ---
 layout: post
+title:  "TBD"
+date:   TBD
+categories: Cat
+permalink: /:categories/:title
 
 
 ---
