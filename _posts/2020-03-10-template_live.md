@@ -1,6 +1,6 @@
 ---
 layout: post
-
+date: 2012-2-2
 permalink: /:categories/:title
 
 ---
