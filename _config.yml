@@ -35,6 +35,17 @@ plugins:
   - jekyll-feed
 
 defaults:
+<<<<<<< HEAD
+=======
+  -
+  #  scope:
+  #    path: ""
+    #  type: "post"
+      #  values:
+      #    layout: post
+      #    permalink: /:categories/:title
+      #    title: "toolazy4title"
+>>>>>>> bb429f06c28f358c37d3de4bb833da82f31c11ff
 
 
 
