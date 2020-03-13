@@ -34,6 +34,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
+<<<<<<< HEAD
 defaults:
   -
    scope:
@@ -43,6 +44,8 @@ defaults:
          layout: post
          permalink: /:categories/:title
          title: "toolazy4title"
+=======
+>>>>>>> 8c339439b3943a182c00db3412de52996aa5ec44
 
 
 
