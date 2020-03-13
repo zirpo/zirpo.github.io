@@ -35,15 +35,6 @@ plugins:
   - jekyll-feed
 
 
-defaults:
-  -
-    scope:
-      path: "_post"
-      type: "post"
-        values:
-          layout: post
-          permalink: /:categories/:title
-          title: "toolazy4title"
 
 
 
