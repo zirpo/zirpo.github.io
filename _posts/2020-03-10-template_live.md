@@ -1,6 +1,5 @@
 ---
 layout: post
-date: 2015-03-12
 permalink: /:categories/:title
 
 ---
