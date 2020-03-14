@@ -2,7 +2,7 @@
 layout: post
 title:  "++++++Welcome to Jekyll!+++++"
 date:   1999-03-30 22:07:05 +0100
-categories: jekyll update
+categories: jekyll update2
 permalink: /:categories/:title
 ---
 
