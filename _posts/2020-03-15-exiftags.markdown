@@ -5,5 +5,5 @@ title:  "exifneu"
 categories: plugins
 permalink: /:categories/:title
 ---
-nur text
-#{{ /photos/dhd.PNG| exif: '[exif-tag]'}}
+#nur text
+{{ /photos/dhd.PNG| exif: '[exif-tag]'}}
