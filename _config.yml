@@ -26,7 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: zirpo
 github_username:  zirpo
-
+{% include instagram.html feedUrl="https://zapier.com/engine/rss/2502510/jhvanderschee" %}
 # Build settings
 theme: minima
 plugins:
