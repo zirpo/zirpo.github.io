@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ecif testeintr"
+title:  "exifneu"
 
 categories: plugins
 permalink: /:categories/:title
