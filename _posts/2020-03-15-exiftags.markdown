@@ -6,5 +6,5 @@ categories: plugins
 permalink: /:categories/:title
 ---
 
-![bild1](/photos/dhd.PNG)
-{{% exiftag tagname,[source],[dhd.PNG] %}}
+#![bild1](/photos/dhd.PNG)
+{% exiftag tagname,[source],[/photos/dhd.PNG] %}
