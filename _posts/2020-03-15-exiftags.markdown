@@ -2,9 +2,9 @@
 layout: post
 title:  "ecif testeintr"
 
-categories: jekyll update23
+categories: plugins
 permalink: /:categories/:title
 ---
 
 ![bild1](/photos/dhd.PNG)
-{% exiftag tagname,[source],[file] %}
+{{% exiftag tagname,[source],[dhd.PNG] %}}
