@@ -22,11 +22,12 @@ title: zirpography
 email: graphy@zirpo.de
 description: >- # this means to ignore newlines until "baseurl:"
   'Ho sempre pensato che la fotografia sia come una barzelletta: se la devi spiegare non è venuta bene.'
+  {% include instagram.html feedUrl="https://zapier.com/engine/rss/2502510/jhvanderschee" %}
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: zirpo
 github_username:  zirpo
-{% include instagram.html feedUrl="https://zapier.com/engine/rss/2502510/jhvanderschee" %}
+
 # Build settings
 theme: minima
 plugins:
