@@ -2,6 +2,7 @@
 layout: post
 title: "lock down start up"
 date: "2020-03-16 18:44:59 +0100"
+author: zirpo
 
 ---
 
