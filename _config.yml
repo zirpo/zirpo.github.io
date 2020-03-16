@@ -22,18 +22,25 @@ title: zirpography
 email: graphy@zirpo.de
 description: >- # this means to ignore newlines until "baseurl:"
   'Ho sempre pensato che la fotografia sia come una barzelletta: se la devi spiegare non è venuta bene.'
-  {{% include instagram.html feedUrl="https://zapier.com/engine/rss/2502510/jhvanderschee" %}}
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: zirpo
-github_username:  zirpo
+instagram_username: zirpography
+# github_username:  jekyll
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-exif-data
+  - jekyll-exiftag
+  - exifr
 
+
+
+exiftag:
+  sources:
+  - photos
+  - photos/other_source
 
 
 
