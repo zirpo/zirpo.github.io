@@ -1,0 +1,22 @@
+---
+layout: post
+title: "exif3"
+date: "2020-03-15 21:54:20 +0100"
+---
+<!-- {% exiftag model,[source],1.jpg  %}
+EXIFR::JPEG.new('IMG_6841.JPG').width               # => 2272
+EXIFR::JPEG.new('IMG_6841.JPG').height              # => 1704
+EXIFR::JPEG.new('IMG_6841.JPG').exif?               # => true
+EXIFR::JPEG.new('IMG_6841.JPG').model               # => "Canon PowerShot G3"
+EXIFR::JPEG.new('IMG_6841.JPG').date_time           # => Fri Feb 09 16:48:54 +0100 2007
+EXIFR::JPEG.new('IMG_6841.JPG').exposure_time.to_s  # => "1/15"
+EXIFR::JPEG.new('IMG_6841.JPG').f_number.to_f       # => 2.0
+EXIFR::JPEG.new('enkhuizen.jpg').gps.latitude       # => 52.7197888888889
+EXIFR::JPEG.new('enkhuizen.jpg').gps.longitude      # => 5.28397777777778 -->
+
+![covid_001](/photos/covid_001.jpg)
+#xt20 #35mm #f11 #1/250
+<!--f number {% exiftag f_number.to_f,[source],covid_001.jpg %} <br>
+exposure {% exiftag xposure_time.to_s,[source],covid_001.jpg  %}<br>
+iso {% exiftag f_number.to_f ,[source],covid_001.jpg  %}<br>
+print (name)-->

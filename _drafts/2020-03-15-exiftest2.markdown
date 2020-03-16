@@ -1,0 +1,7 @@
+---
+layout: post
+title: "exiftest2"
+date: "2020-03-15 21:22:03 +0100"
+---
+
+![My helpful screenshot](/photos/2.jpg)
