@@ -7,4 +7,4 @@ author: zirpo
 ---
 
 ![covid_001](/photos/covid_001.jpg){:height="65%" width="65%"} <br>
-#xt20 #35mm #f11 #1/250
+#xt20 #35mmf2 #f11 #1/250
