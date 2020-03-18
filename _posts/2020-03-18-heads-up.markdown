@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Heads up"
+title: "heads up"
 date: "2020-03-18 17:33:27 +0100"
 ---
 
