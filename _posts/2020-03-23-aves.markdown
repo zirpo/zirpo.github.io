@@ -1,0 +1,8 @@
+---
+layout: post
+title: "aves"
+date: "2020-03-23 21:13:29 +0100"
+---
+
+![covid_008](/photos/covid_008.jpg){:height="75%" width="75%"} <br>
+#xt20 #35mmf2 #f2 #1/16000 #iso200
