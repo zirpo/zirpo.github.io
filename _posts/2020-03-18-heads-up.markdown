@@ -5,4 +5,4 @@ date: "2020-03-18 17:33:27 +0100"
 ---
 
 ![covid_003](/photos/covid_003.jpg){:height="75%" width="75%"} <br>
-#xt20 #35mmf2 #f6.4 #1/1000 #iso400 #driveby
+#xt20 #35mmf2 #f7.1 #1/1000 #iso400 #driveby
